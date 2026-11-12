@@ -8,7 +8,7 @@ def main():
             print('please enter an integer')
     
     if num % 10 == 0 and num % 3!=0:
-        print (" is divisible by 10 and not divisible by 3.")
+        print ("f is divisible by 10 and not divisible by 3.")
     else:
         print(' is not divisable by 10 or divisible by 3.')
          
