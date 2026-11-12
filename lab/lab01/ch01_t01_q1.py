@@ -3,7 +3,7 @@ def main():
     
     if num % 3 == 0 and num % 10!=0:
         print ("num is not divisible by 10 or divisible by 3")
-        
+        else
          
 
 
