@@ -1,7 +1,7 @@
 def main():
     # Remove pass with your answer.
     
-    if num % 10 == 0 and num % !=0:
+    if num % 10 == 0 and num % 3!=0:
         print ("num is not divisible by 10 or divisible by 3")
     else
          
