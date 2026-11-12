@@ -1,7 +1,7 @@
 def main():
     # Remove pass with your answer.
     if num % 3 == 0 and num % 10!=0:
-        return 
+        return num is not divisible by 10
 
 
 if __name__ == "__main__":
