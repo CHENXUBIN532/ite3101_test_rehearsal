@@ -1,6 +1,6 @@
 def main():
     # Remove pass with your answer.
-    if 
+    if num % 3
 
 
 if __name__ == "__main__":
