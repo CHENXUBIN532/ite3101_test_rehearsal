@@ -2,6 +2,7 @@ def main():
     # Remove pass with your answer.
     while True:
         try:
+            num = int(input('Type an integer'))
     
     if num % 10 == 0 and num % 3!=0:
         print ("num is divisible by 10 and not divisible by 3.")
