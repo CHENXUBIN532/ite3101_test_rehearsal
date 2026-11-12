@@ -1,7 +1,7 @@
 def main():
     # Remove pass with your answer.
     if num % 3 == 0 and num % 10!=0:
-        return
+        return 
 
 
 if __name__ == "__main__":
