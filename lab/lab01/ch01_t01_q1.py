@@ -20,5 +20,3 @@ while True:
 
 
 int=input('please input number')
-for i in int:
-    
