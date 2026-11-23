@@ -13,4 +13,6 @@ while True:
         int=input('please input height!')
         weight = int(input())
         Height = int(input())
-        return a
+        return area=weight*Height
+    excepterror:
+    
