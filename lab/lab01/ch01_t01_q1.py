@@ -19,6 +19,6 @@ while True:
     except:print(please input number)
 
 
-int=input('please input number')
+int
 
 
