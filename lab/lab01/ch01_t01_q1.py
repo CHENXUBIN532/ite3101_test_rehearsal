@@ -14,5 +14,5 @@ while True:
         weight = int(input())
         Height = int(input())
         return area=weight*Height
+        
     excepterror:
-    
