@@ -9,6 +9,7 @@ if __name__ == "__main__":
 
 while True:
     try:
-        int=input('please input number!')
+        int=input('please input weight!')
+        int=input('please input height!')
         weight = int(input())
         Height = int(input())
