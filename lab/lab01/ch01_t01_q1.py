@@ -16,4 +16,4 @@ while True:
         area=weight*Height
         print (area)
         break
-    except:print(please input )
+    except:print(please input number)
