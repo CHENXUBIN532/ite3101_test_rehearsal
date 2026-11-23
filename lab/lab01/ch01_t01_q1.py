@@ -7,4 +7,8 @@ if __name__ == "__main__":
     # execute only if run as a script
     main()
 
-
+while True:
+    try:
+        in
+weight = int(input())
+Height = int(input())
