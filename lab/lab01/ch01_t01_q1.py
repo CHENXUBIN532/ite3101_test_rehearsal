@@ -4,6 +4,9 @@ def main():
         try:
             weight=float(input('weight: '))
             height=float(input('height: '))
+            break
+        except ValueError:
+            print()
             
 
 
