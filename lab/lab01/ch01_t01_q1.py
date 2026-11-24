@@ -8,7 +8,7 @@ def main():
         except ValueError:
             print('invalid number')
             continue
-    a
+    area
             
 
 
