@@ -2,8 +2,8 @@ def main():
     # Remove pass with your answer.
     while True:
         try:
-            weight=int(input('weight:'))
-            height=int(input('height:'))
+            weight=float(input('weight:'))
+            height=float(input('height:'))
             
 
 
