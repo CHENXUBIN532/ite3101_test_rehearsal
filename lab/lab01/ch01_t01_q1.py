@@ -1,7 +1,9 @@
 def main():
     # Remove pass with your answer.
     while True:
-        
+        try:
+            weight=int(input('weight:'))
+            height=int(input('height:')
 
 
 if __name__ == "__main__":
