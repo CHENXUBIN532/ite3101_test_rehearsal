@@ -7,7 +7,8 @@ def main():
             break
         except ValueError:
             print('invalid number')
-        
+            continue
+    a
             
 
 
