@@ -6,7 +6,8 @@ def main():
             height=float(input('height: '))
             break
         except ValueError:
-            print()
+            print('invalid number')
+        
             
 
 
