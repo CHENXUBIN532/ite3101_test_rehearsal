@@ -3,7 +3,8 @@ def main():
     while True:
         try:
             weight=int(input('weight:'))
-            height=int(input('height:')
+            height=int(input('height:'))
+            
 
 
 if __name__ == "__main__":
